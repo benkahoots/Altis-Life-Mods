@@ -7,3 +7,5 @@ Altis Life Changes that may need to be made
 - Sofia garage needs to be moved because of bad spawn point that could possibly blow up cars and or large trucks.
 - The speedboat minigun is able to be bought at a public level which should probably be moved up the ranks.
 - Need to Re-add custom textures so that all the vehicles now look back to Day0m aussie-ness.
+- Robbable gas stations need to come bacck as an objective, possibly re-wrtitten so that it works with Tonic's new update.
+- Jawsh's custom jail needs to replace the default one so that it's actually a nice jail. (Sorry Tonic).
